@@ -9,11 +9,11 @@
     "express": "4.16.2",
     "lodash": "4.17.4",
     "moment": "2.20.1",
-    "mongodb": "3.0.1",
+    "mongodb": "3.1.x",
     "standard-error": "1.1.0"
   },
   "devDependencies": {
-    "mocha": "5.0.0",
+    "mocha": "5.x",
     "superagent": "3.8.2"
   },
   "engines": {
